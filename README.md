@@ -33,3 +33,19 @@ Mapa do Fluxo
 [Metabase Dashboard]
    │── KPI 1 (Visualização)
    └── KPI 2 (Visualização)
+
+Data Warehouse and Analytical Visualization
+
+Project developed during the Data Analysis and Visualization course at Cesar School's Computer Science program. It includes:
+
+- ETL scripts for data ingestion, transformation, and normalization about students' habits and academic performance.
+
+- Dimensional modeling with four analytical dimensions (Study Habits, Health and Well-being, Personal Profile, and Social Media).
+
+- Relational Data Warehouse using PostgreSQL (Docker).
+
+- Interactive dashboards and KPIs built with Metabase.
+
+- Analytical insights exploring correlations like attendance vs. grades, part-time work impact, and mental health relationships with academic results.
+
+Technologies: Python (pandas, sqlalchemy), PostgreSQL (Docker), Metabase, SQL, Git.
