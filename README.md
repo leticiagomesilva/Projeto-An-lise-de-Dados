@@ -34,7 +34,7 @@ Mapa do Fluxo
    │── KPI 1 (Visualização)
    └── KPI 2 (Visualização)
 
-Data Warehouse and Analytical Visualization
+# Data Warehouse and Analytical Visualization
 
 Project developed during the Data Analysis and Visualization course at Cesar School's Computer Science program. It includes:
 
